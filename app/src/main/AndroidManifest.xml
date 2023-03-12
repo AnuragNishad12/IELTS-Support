@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.anurag.ieltssupport">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.IELTSSupport">
+        <activity
+            android:name="com.anurag.ieltssupport.Vocabulary.Vocabulary_Display"
+            android:exported="false"/>
+<!--&lt;!&ndash;            <meta-data&ndash;&gt;-->
+<!--&lt;!&ndash;                android:name="android.app.lib_name"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:value="" -->
+        <activity
+            android:name="com.anurag.ieltssupport.Vocabulary.Voca_Second_Recycler"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Speaking.Sample.SampleDisplay"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Speaking.Sample.SecondSample"
+            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".Speaking.Part3.SecondPart3SpeakDisplay"-->
+<!--            android:exported="false"-->
+<!--        />-->
+<!--        <activity-->
+<!--            android:name=".Speaking.Part3.part3Display"-->
+<!--            android:exported="false"-->
+<!--            />-->
+        <activity
+            android:name="com.anurag.ieltssupport.Grammer.DisplayGrammer"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+        </activity>
+        <activity
+            android:name="com.anurag.ieltssupport.Speaking.Part2.Displaypart2Spe"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Speaking.Part2.SecondPart2S"
+            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".Grammer.DisplayGrammer"-->
+<!--            android:exported="false"-->
+<!--            tools:ignore="DuplicateActivity" />-->
+        <activity
+            android:name="com.anurag.ieltssupport.Grammer.SecondGrammer"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Speaking.part1SpeakingDisplay"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Speaking.Part1Speaking"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Speaking.SpeakingSecond"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Writing.Part2.wrPartDisplay"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Writing.Part2.Writing_Part2_Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Writing.Part1.wrPart1_Display"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Writing.Part1.Writing_Part1_Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Writing.WritingSecondActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Listening.Part2.Part2AnswersDisplay"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Listening.Part2.Part2Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Listening.Part1.Part1_Answers"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Listening.Part1.Part1_Activity"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Listening.SecondListening"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Reading.readSecondActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.Reading.ReadAnswers"
+            android:exported="false" />
+        <activity
+            android:name="com.anurag.ieltssupport.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5187443533578655~4316067888" />
+    </application>
+
+</manifest>

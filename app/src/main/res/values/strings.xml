@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IELTS Support</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Dis3Topic1">Transport Information \nService Listening Test</string>
+    <string name="Dis3Topic2">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic3">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic4">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic5">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic6">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic7">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic8">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic9">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic10">IELTS LISTENING PRACTICE \nTEST 2023 WITH ANSWERS</string>
+    <string name="Dis3Topic11">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic12">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic13">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic14">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS </string>
+    <string name="Dis3Topic15">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic16">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic17">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS </string>
+    <string name="Dis3Topic18">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS</string>
+    <string name="Dis3Topic19">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS </string>
+    <string name="Dis3Topic20">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS </string>
+    <string name="Dis3Topic21">IELTS LISTENING PRACTICE \nTEST 2022 WITH ANSWERS </string>
+    <string name="grammer1">ca-app-pub-5187443533578655/3260144691</string>
+
+</resources>
